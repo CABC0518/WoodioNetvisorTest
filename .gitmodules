@@ -1,0 +1,4 @@
+[submodule "sarinvaisanen/netvisor"]
+	path = sarinvaisanen/netvisor
+	url = git@github.com:sarinvaisanen/netvisor.git
+	branch = master
